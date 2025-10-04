@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ganeshdwivedi/" target="blank">
+<a href="https://www.linkedin.com/in/ganeshdwivedi-/" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
 </a>
 <a href="mailto:ganeshdwivedi1783@gmail.com" target="blank">
