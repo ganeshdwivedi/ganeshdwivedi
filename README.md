@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ganesh Dwivedi</h1>
 <h3 align="center">A passionate Software Developer from India 🇮🇳</h3>
 
-- 🌱 I’m currently learning **React, Next.js, and React Native**
+- 💻 I have **2 years of experience in React and Next.js**, building scalable web and mobile applications.
 
-- 💻 I love building **scalable web and mobile applications**
+- 🌱 I’m currently **learning backend development** with **Node.js, Express, MongoDB, and Firebase**.
 
 - 👨‍💻 All of my projects are available at [https://ganeshdwivedi.tech](https://ganeshdwivedi.tech)
 
 - 📫 How to reach me **ganeshdwivedi1783@gmail.com**
 
-- ⚡ Fun fact: I enjoy solving complex problems and learning new tech stacks!
+- ⚡ Fun fact: I enjoy solving complex problems and building efficient digital solutions!
 
 ---
 
